@@ -2,3 +2,6 @@ let s = "When I find myself in times of trouble Mother Mary comes to me Speaking
 
 let a = s.split(/ /);
 console.log(a);
+
+let b = s.split(" ");
+console.log(b);
